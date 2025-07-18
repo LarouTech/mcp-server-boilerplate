@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A reusable TypeScript MCP server boilerplate",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "dev": "tsx src/index.ts",
